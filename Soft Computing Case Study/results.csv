@@ -1,0 +1,3 @@
+Model,Test Accuracy (%),Macro Precision,Macro Recall,Macro F1-Score,Parameters,MACs (Millions),FLOPs (Millions),Latency (ms/image)
+Teacher CNN,79.33,0.7924,0.7933,0.7927,620810,10.8488,21.6975,1.3488
+GA-Pruned CNN + KD,79.0,0.7905,0.79,0.7899,459436,8.7557,17.5114,1.6645
